@@ -44,5 +44,18 @@ pip install -r requirements.txt
 
 Run the project:
 
+
+
+## Demo
+
+### Terminal Output
+<img width="1016" height="280" alt="terminal-output" src="https://github.com/user-attachments/assets/b8435e56-a514-4df1-883a-fcd56619f277" />
+
+
+### Google Calendar Event Created
+<img width="1902" height="1080" alt="calendar-event" src="https://github.com/user-attachments/assets/2115a56c-cba0-48c6-aae6-83243ad58039" />
+
+
 ```
 python main.py
+
